@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmEshCurlDblBar" format="2">
+  <advance width="845"/>
+  <unicode hex="1DF0C"/>
+  <anchor x="415" y="-500" name="L"/>
+  <anchor x="465" y="1635" name="U"/>
+  <outline>
+    <component base="LtnSmEshCurl"/>
+    <contour>
+      <point x="46" y="895" type="line"/>
+      <point x="671" y="895" type="line"/>
+      <point x="671" y="1040" type="line"/>
+      <point x="46" y="1040" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="565" type="line"/>
+      <point x="671" y="565" type="line"/>
+      <point x="671" y="710" type="line"/>
+      <point x="46" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapIStrk" format="2">
+  <advance width="1015"/>
+  <unicode hex="0197"/>
+  <anchor x="422" y="-100" name="L"/>
+  <anchor x="829" y="1530" name="U"/>
+  <outline>
+    <contour>
+      <point x="430" y="1445" type="line"/>
+      <point x="379" y="1242" type="line"/>
+      <point x="619" y="1242" type="line"/>
+      <point x="360" y="203" type="line"/>
+      <point x="120" y="203" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="835" y="0" type="line"/>
+      <point x="885" y="203" type="line"/>
+      <point x="645" y="203" type="line"/>
+      <point x="904" y="1242" type="line"/>
+      <point x="1144" y="1242" type="line"/>
+      <point x="1195" y="1445" type="line"/>
+    </contour>
+    <contour>
+      <point x="274" y="843" type="line"/>
+      <point x="223" y="641" type="line"/>
+      <point x="998" y="641" type="line"/>
+      <point x="1049" y="843" type="line"/>
+    </contour>
+  </outline>
+</glyph>

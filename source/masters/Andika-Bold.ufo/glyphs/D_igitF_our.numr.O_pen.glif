@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DigitFour.numr.Open" format="2">
+  <advance width="764"/>
+  <outline>
+    <component base="DigitFour.dnom.Open" xOffset="70" yOffset="665"/>
+  </outline>
+</glyph>

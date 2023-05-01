@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmAbkhasCheDesc.sc" format="2">
+  <advance width="1735"/>
+  <anchor x="1082" y="-418" name="L"/>
+  <anchor x="1046" y="1279" name="U"/>
+  <outline>
+    <component base="CySmAbkhasChe.sc"/>
+    <contour>
+      <point x="967" y="-385" type="curve"/>
+      <point x="1212" y="-385" type="line"/>
+      <point x="1212" y="-279"/>
+      <point x="1216" y="-106"/>
+      <point x="1244" y="0" type="curve"/>
+      <point x="935" y="0" type="line"/>
+      <point x="962" y="-106"/>
+      <point x="967" y="-279"/>
+    </contour>
+  </outline>
+</glyph>

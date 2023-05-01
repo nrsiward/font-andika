@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="GrSmCapPi" format="2">
+  <advance width="1157"/>
+  <unicode hex="1D28"/>
+  <anchor x="517" y="-100" name="L"/>
+  <anchor x="817" y="1100" name="U"/>
+  <outline>
+    <contour>
+      <point x="982" y="0" type="line"/>
+      <point x="983" y="55"/>
+      <point x="1010" y="163"/>
+      <point x="1044" y="298" type="curve" smooth="yes"/>
+      <point x="1145" y="702" type="line" smooth="yes"/>
+      <point x="1179" y="837"/>
+      <point x="1205" y="945"/>
+      <point x="1231" y="1000" type="curve"/>
+      <point x="334" y="1000" type="line"/>
+      <point x="331" y="945"/>
+      <point x="306" y="837"/>
+      <point x="272" y="702" type="curve" smooth="yes"/>
+      <point x="171" y="298" type="line" smooth="yes"/>
+      <point x="137" y="163"/>
+      <point x="110" y="55"/>
+      <point x="85" y="0" type="curve"/>
+      <point x="285" y="0" type="line"/>
+      <point x="497" y="857" type="line"/>
+      <point x="994" y="857" type="line"/>
+      <point x="782" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

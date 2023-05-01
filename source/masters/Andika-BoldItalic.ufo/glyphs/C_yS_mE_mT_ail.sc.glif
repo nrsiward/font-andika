@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmEmTail.sc" format="2">
+  <advance width="1864"/>
+  <anchor x="779" y="-84" name="L"/>
+  <anchor x="1153" y="1279" name="U"/>
+  <outline>
+    <contour>
+      <point x="850" y="227" type="line"/>
+      <point x="825" y="1208" type="line"/>
+      <point x="615" y="1208" type="line"/>
+      <point x="668" y="0" type="line"/>
+      <point x="931" y="0" type="line"/>
+      <point x="1643" y="1208" type="line"/>
+      <point x="1418" y="1208" type="line"/>
+    </contour>
+    <contour>
+      <point x="466" y="1208" type="line"/>
+      <point x="466" y="1208"/>
+      <point x="148" y="164"/>
+      <point x="80" y="0" type="curve"/>
+      <point x="342" y="0" type="line"/>
+      <point x="630" y="1068" type="line"/>
+      <point x="696" y="1208" type="line"/>
+    </contour>
+    <contour>
+      <point x="1524" y="0" type="line"/>
+      <point x="1541" y="164"/>
+      <point x="1791" y="1208"/>
+      <point x="1791" y="1208" type="curve"/>
+      <point x="1542" y="1208" type="line"/>
+      <point x="1556" y="1076" type="line"/>
+      <point x="1262" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1474" y="191" type="line"/>
+      <point x="1487" y="0" type="line"/>
+      <point x="1189" y="-364" type="line"/>
+      <point x="1415" y="-364" type="line"/>
+      <point x="1740" y="0" type="line"/>
+      <point x="1792" y="191" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VulgFracOneTenth.NoBase.Slash" format="2">
+  <advance width="1978"/>
+  <outline>
+    <component base="DigitOne.numr.NoBase" xOffset="-20"/>
+    <component base="DigitOne.dnom.NoBase" xOffset="830"/>
+    <component base="DigitZero.dnom.Slash" xOffset="1350"/>
+    <contour>
+      <point x="1440" y="1568" type="line"/>
+      <point x="67" y="-49" type="line"/>
+      <point x="207" y="-49" type="line"/>
+      <point x="1580" y="1568" type="line"/>
+    </contour>
+  </outline>
+</glyph>

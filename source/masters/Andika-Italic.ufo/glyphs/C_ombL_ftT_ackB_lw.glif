@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombLftTackBlw" format="2">
+  <unicode hex="0318"/>
+  <anchor x="-755" y="-500" name="L"/>
+  <anchor x="-655" y="-100" name="_L"/>
+  <outline>
+    <contour>
+      <point x="-632" y="-270" type="line"/>
+      <point x="-852" y="-270" type="line"/>
+      <point x="-874" y="-358" type="line"/>
+      <point x="-654" y="-358" type="line"/>
+      <point x="-689" y="-500" type="line"/>
+      <point x="-599" y="-500" type="line"/>
+      <point x="-506" y="-127" type="line"/>
+      <point x="-596" y="-127" type="line"/>
+    </contour>
+  </outline>
+</glyph>

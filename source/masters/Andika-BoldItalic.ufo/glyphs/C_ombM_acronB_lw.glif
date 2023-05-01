@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombMacronBlw" format="2">
+  <unicode hex="0331"/>
+  <anchor x="-745" y="-450" name="L"/>
+  <anchor x="-665" y="-100" name="_L"/>
+  <outline>
+    <contour>
+      <point x="-1153" y="-376" type="line"/>
+      <point x="-324" y="-376" type="line"/>
+      <point x="-272" y="-168" type="line"/>
+      <point x="-1101" y="-168" type="line"/>
+    </contour>
+  </outline>
+</glyph>

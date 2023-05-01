@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DigitSix.numr.Diag" format="2">
+  <advance width="764"/>
+  <outline>
+    <component base="DigitSix.dnom.Diag" xOffset="70" yOffset="665"/>
+  </outline>
+</glyph>

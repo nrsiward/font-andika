@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombCandrabindu" format="2">
+  <unicode hex="0310"/>
+  <anchor x="-231" y="1635" name="U"/>
+  <anchor x="-365" y="1100" name="_U"/>
+  <outline>
+    <contour>
+      <point x="-31" y="1544" type="line"/>
+      <point x="-72" y="1415"/>
+      <point x="-168" y="1327"/>
+      <point x="-289" y="1327" type="curve" smooth="yes"/>
+      <point x="-403" y="1327"/>
+      <point x="-481" y="1415"/>
+      <point x="-481" y="1526" type="curve" smooth="yes"/>
+      <point x="-481" y="1532"/>
+      <point x="-480" y="1538"/>
+      <point x="-480" y="1544" type="curve"/>
+      <point x="-660" y="1544" type="line"/>
+      <point x="-666" y="1519"/>
+      <point x="-669" y="1493"/>
+      <point x="-669" y="1467" type="curve" smooth="yes"/>
+      <point x="-669" y="1299"/>
+      <point x="-539" y="1138"/>
+      <point x="-326" y="1138" type="curve" smooth="yes"/>
+      <point x="-83" y="1138"/>
+      <point x="112" y="1352"/>
+      <point x="149" y="1544" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-405" y="1526" type="curve" smooth="yes"/>
+      <point x="-405" y="1458"/>
+      <point x="-358" y="1396"/>
+      <point x="-281" y="1396" type="curve" smooth="yes"/>
+      <point x="-188" y="1396"/>
+      <point x="-104" y="1473"/>
+      <point x="-104" y="1561" type="curve" smooth="yes"/>
+      <point x="-104" y="1630"/>
+      <point x="-150" y="1693"/>
+      <point x="-227" y="1693" type="curve" smooth="yes"/>
+      <point x="-326" y="1693"/>
+      <point x="-405" y="1620"/>
+    </contour>
+  </outline>
+</glyph>

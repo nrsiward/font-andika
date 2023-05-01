@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NotGTSgn" format="2">
+  <advance width="1200"/>
+  <unicode hex="226F"/>
+  <outline>
+    <contour>
+      <point x="130" y="245" type="line"/>
+      <point x="1090" y="635" type="line"/>
+      <point x="1090" y="825" type="line"/>
+      <point x="130" y="1215" type="line"/>
+      <point x="130" y="985" type="line"/>
+      <point x="810" y="730" type="line"/>
+      <point x="130" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="655" y="1330" type="line"/>
+      <point x="256" y="120" type="line"/>
+      <point x="450" y="120" type="line"/>
+      <point x="849" y="1330" type="line"/>
+    </contour>
+  </outline>
+</glyph>

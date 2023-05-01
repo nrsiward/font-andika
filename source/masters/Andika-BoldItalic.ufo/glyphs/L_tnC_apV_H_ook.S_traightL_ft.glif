@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapVHook.StraightLft" format="2">
+  <advance width="1365"/>
+  <anchor x="655" y="0" name="H"/>
+  <anchor x="635" y="-100" name="L"/>
+  <anchor x="865" y="0" name="O"/>
+  <anchor x="977" y="1530" name="U"/>
+  <outline>
+    <contour>
+      <point x="325" y="1445" type="line"/>
+      <point x="337" y="1364"/>
+      <point x="348" y="1275"/>
+      <point x="370" y="1084" type="curve" smooth="yes"/>
+      <point x="495" y="0" type="line"/>
+      <point x="810" y="0" type="line"/>
+      <point x="1106" y="315"/>
+      <point x="1394" y="678"/>
+      <point x="1477" y="1011" type="curve" smooth="yes"/>
+      <point x="1492" y="1070"/>
+      <point x="1499" y="1124"/>
+      <point x="1499" y="1171" type="curve" smooth="yes"/>
+      <point x="1499" y="1378"/>
+      <point x="1366" y="1470"/>
+      <point x="1191" y="1470" type="curve" smooth="yes"/>
+      <point x="1099" y="1470"/>
+      <point x="1010" y="1444"/>
+      <point x="946" y="1411" type="curve"/>
+      <point x="968" y="1198" type="line"/>
+      <point x="1030" y="1229"/>
+      <point x="1047" y="1242"/>
+      <point x="1109" y="1242" type="curve" smooth="yes"/>
+      <point x="1177" y="1242"/>
+      <point x="1222" y="1199"/>
+      <point x="1222" y="1107" type="curve" smooth="yes"/>
+      <point x="1222" y="1078"/>
+      <point x="1218" y="1045"/>
+      <point x="1208" y="1007" type="curve" smooth="yes"/>
+      <point x="1146" y="758"/>
+      <point x="964" y="494"/>
+      <point x="729" y="238" type="curve"/>
+      <point x="630" y="1445" type="line"/>
+    </contour>
+  </outline>
+</glyph>

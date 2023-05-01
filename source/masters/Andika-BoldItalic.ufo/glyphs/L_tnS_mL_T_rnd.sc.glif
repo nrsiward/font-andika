@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmLTrnd.sc" format="2">
+  <advance width="1041"/>
+  <anchor x="682" y="-84" name="L"/>
+  <anchor x="736" y="1279" name="U"/>
+  <outline>
+    <contour>
+      <point x="851" y="1018" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="848" y="0" type="line"/>
+      <point x="851" y="66"/>
+      <point x="887" y="197"/>
+      <point x="932" y="360" type="curve" smooth="yes"/>
+      <point x="1067" y="849" type="line" smooth="yes"/>
+      <point x="1111" y="1012"/>
+      <point x="1147" y="1142"/>
+      <point x="1179" y="1208" type="curve"/>
+      <point x="319" y="1208" type="line"/>
+      <point x="263" y="1006" type="line"/>
+      <point x="337" y="1017"/>
+      <point x="478" y="1018"/>
+      <point x="652" y="1018" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

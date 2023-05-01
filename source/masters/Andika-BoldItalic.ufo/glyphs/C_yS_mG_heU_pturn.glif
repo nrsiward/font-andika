@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmGheUpturn" format="2">
+  <advance width="1040"/>
+  <unicode hex="0491"/>
+  <anchor x="475" y="-100" name="L"/>
+  <anchor x="715" y="1100" name="U"/>
+  <outline>
+    <contour>
+      <point x="370" y="0" type="line"/>
+      <point x="568" y="797" type="line"/>
+      <point x="1163" y="797" type="line"/>
+      <point x="1290" y="1307" type="line"/>
+      <point x="1055" y="1307" type="line"/>
+      <point x="981" y="1010" type="line"/>
+      <point x="341" y="1010" type="line"/>
+      <point x="165" y="301" type="line" smooth="yes"/>
+      <point x="131" y="164"/>
+      <point x="102" y="55"/>
+      <point x="80" y="0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

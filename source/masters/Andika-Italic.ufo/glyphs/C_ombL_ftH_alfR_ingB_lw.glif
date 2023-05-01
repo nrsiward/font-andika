@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombLftHalfRingBlw" format="2">
+  <unicode hex="031C"/>
+  <anchor x="-785" y="-550" name="L"/>
+  <anchor x="-675" y="-100" name="_L"/>
+  <outline>
+    <contour>
+      <point x="-663" y="-515" type="curve"/>
+      <point x="-643" y="-436" type="line"/>
+      <point x="-709" y="-436"/>
+      <point x="-746" y="-384"/>
+      <point x="-746" y="-329" type="curve" smooth="yes"/>
+      <point x="-746" y="-249"/>
+      <point x="-666" y="-196"/>
+      <point x="-593" y="-196" type="curve"/>
+      <point x="-574" y="-118" type="line"/>
+      <point x="-724" y="-118"/>
+      <point x="-839" y="-207"/>
+      <point x="-839" y="-341" type="curve" smooth="yes"/>
+      <point x="-839" y="-430"/>
+      <point x="-771" y="-515"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmEshDblBar" format="2">
+  <advance width="725"/>
+  <unicode hex="1DF0B"/>
+  <anchor x="325" y="-500" name="L"/>
+  <anchor x="425" y="1635" name="U"/>
+  <outline>
+    <component base="LtnSmEsh"/>
+    <contour>
+      <point x="6" y="895" type="line"/>
+      <point x="631" y="895" type="line"/>
+      <point x="631" y="1040" type="line"/>
+      <point x="6" y="1040" type="line"/>
+    </contour>
+    <contour>
+      <point x="6" y="565" type="line"/>
+      <point x="631" y="565" type="line"/>
+      <point x="631" y="710" type="line"/>
+      <point x="6" y="710" type="line"/>
+    </contour>
+  </outline>
+</glyph>

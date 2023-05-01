@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombPlusSgnAbv" format="2">
+  <unicode hex="1AC8"/>
+  <anchor x="-207" y="1636" name="U"/>
+  <anchor x="-346" y="1100" name="_U"/>
+  <outline>
+    <component base="CombPlusSgnBlw" xOffset="440" yOffset="1709"/>
+  </outline>
+</glyph>

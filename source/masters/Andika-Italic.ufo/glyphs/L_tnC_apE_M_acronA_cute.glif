@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapEMacronAcute" format="2">
+  <advance width="1140"/>
+  <unicode hex="1E16"/>
+  <anchor x="540" y="0" name="H"/>
+  <anchor x="515" y="-100" name="L"/>
+  <anchor x="857" y="0" name="O"/>
+  <anchor x="1400" y="1200" name="R"/>
+  <anchor x="1099" y="2415" name="U"/>
+  <outline>
+    <component base="LtnCapE"/>
+    <component base="CombMacron" xOffset="1232" yOffset="430"/>
+    <component base="CombAcute" xOffset="1320" yOffset="780"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

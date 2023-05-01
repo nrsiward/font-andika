@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VulgFracOneSixth.NoBase.Diag" format="2">
+  <advance width="1534"/>
+  <outline>
+    <component base="DigitOne.numr.NoBase" xOffset="-20"/>
+    <component base="DigitSix.dnom.Diag" xOffset="890"/>
+    <contour>
+      <point x="1540" y="1568" type="line"/>
+      <point x="67" y="-49" type="line"/>
+      <point x="207" y="-49" type="line"/>
+      <point x="1680" y="1568" type="line"/>
+    </contour>
+  </outline>
+</glyph>

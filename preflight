@@ -1,0 +1,28 @@
+#!/bin/sh
+
+echo "-----Normalizing Regular UFO..."
+echo "-----Updating production names in Regular..."
+psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/masters/Andika-Regular.ufo -x
+
+echo "-----Updating glyph orders in Regular..."
+psfsetglyphorder -q --header sort_final_a -i source/glyph_data.csv source/masters/Andika-Regular.ufo -p backup=False -x
+
+echo "-----Normalizing other UFOs..."
+psfnormalize -p checkfix=fix source/masters/Andika-Bold.ufo       &
+psfnormalize -p checkfix=fix source/masters/Andika-Italic.ufo     &
+psfnormalize -p checkfix=fix source/masters/Andika-BoldItalic.ufo &
+wait
+
+echo "-----Rebuilding composites..."
+psfbuildcomp -i source/composites.txt -c -n source/masters/Andika-Regular.ufo -p backup=False
+psfbuildcomp -i source/composites.txt -c -n source/masters/Andika-Bold.ufo -p backup=False
+psfbuildcomp -i source/composites.txt -c -n source/masters/Andika-Italic.ufo -p backup=False
+psfbuildcomp -i source/composites.txt -c -n source/masters/Andika-BoldItalic.ufo -p backup=False
+
+echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
+psfsyncmasters --complex -q source/AndikaRoman.designspace source/AndikaItalic.designspace
+
+# echo "-----Updating woff metadata file..."
+# psfmakewoffmetadata -q -n "Andika" -i "org.sil.fonts" source/masters/Andika-Regular.ufo
+
+echo "-----Preflight completed!"

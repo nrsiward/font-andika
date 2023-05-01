@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombShortSolidusOverlay" format="2">
+  <unicode hex="0337"/>
+  <outline>
+    <contour>
+      <point x="-135" y="1094" type="line"/>
+      <point x="-1063" y="-74" type="line"/>
+      <point x="-865" y="-74" type="line"/>
+      <point x="60" y="1094" type="line"/>
+    </contour>
+  </outline>
+</glyph>

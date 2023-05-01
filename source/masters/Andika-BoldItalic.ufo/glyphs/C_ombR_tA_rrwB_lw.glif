@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombRtArrwBlw" format="2">
+  <unicode hex="20EF"/>
+  <anchor x="-730" y="-500" name="L"/>
+  <anchor x="-630" y="-100" name="_L"/>
+  <outline>
+    <contour>
+      <point x="-1027" y="-312" type="line"/>
+      <point x="-492" y="-312" type="line"/>
+      <point x="-538" y="-376" type="line"/>
+      <point x="-513" y="-416" type="line"/>
+      <point x="-329" y="-257" type="line"/>
+      <point x="-455" y="-104" type="line"/>
+      <point x="-480" y="-144" type="line"/>
+      <point x="-465" y="-203" type="line"/>
+      <point x="-1000" y="-203" type="line"/>
+    </contour>
+  </outline>
+</glyph>

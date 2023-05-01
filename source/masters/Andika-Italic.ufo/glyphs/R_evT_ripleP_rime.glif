@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RevTriplePrime" format="2">
+  <advance width="1180"/>
+  <unicode hex="2037"/>
+  <outline>
+    <contour>
+      <point x="266" y="1431" type="line"/>
+      <point x="512" y="892" type="line"/>
+      <point x="662" y="892" type="line"/>
+      <point x="486" y="1431" type="line"/>
+    </contour>
+    <contour>
+      <point x="626" y="1431" type="line"/>
+      <point x="872" y="892" type="line"/>
+      <point x="1022" y="892" type="line"/>
+      <point x="846" y="1431" type="line"/>
+    </contour>
+    <contour>
+      <point x="986" y="1431" type="line"/>
+      <point x="1232" y="892" type="line"/>
+      <point x="1382" y="892" type="line"/>
+      <point x="1206" y="1431" type="line"/>
+    </contour>
+  </outline>
+</glyph>

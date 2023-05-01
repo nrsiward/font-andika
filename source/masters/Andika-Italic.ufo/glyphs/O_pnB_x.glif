@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OpnBx" format="2">
+  <advance width="435"/>
+  <unicode hex="2423"/>
+  <outline>
+    <contour>
+      <point x="332" y="-250" type="line"/>
+      <point x="395" y="0" type="line"/>
+      <point x="315" y="0" type="line"/>
+      <point x="272" y="-172" type="line"/>
+      <point x="-23" y="-172" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="-60" y="0" type="line"/>
+      <point x="-122" y="-250" type="line"/>
+    </contour>
+  </outline>
+</glyph>

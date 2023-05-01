@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmTe.Serb" format="2">
+  <advance width="1680"/>
+  <anchor x="690" y="-100" name="L"/>
+  <anchor x="1100" y="1505" name="U"/>
+  <outline>
+    <component base="CySmSha"/>
+    <contour>
+      <point x="654" y="1215" type="line"/>
+      <point x="1403" y="1215" type="line"/>
+      <point x="1440" y="1362" type="line"/>
+      <point x="691" y="1362" type="line"/>
+    </contour>
+  </outline>
+</glyph>

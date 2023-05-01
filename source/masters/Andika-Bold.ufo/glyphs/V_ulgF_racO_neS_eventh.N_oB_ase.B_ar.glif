@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VulgFracOneSeventh.NoBase.Bar" format="2">
+  <advance width="1796"/>
+  <outline>
+    <component base="DigitOne.numr.NoBase"/>
+    <component base="DigitSeven.dnom.Bar" xOffset="1070"/>
+    <contour>
+      <point x="1298" y="1600" type="line"/>
+      <point x="227" y="-50" type="line"/>
+      <point x="397" y="-50" type="line"/>
+      <point x="1469" y="1600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModShelf" format="2">
+  <advance width="1145"/>
+  <unicode hex="02FD"/>
+  <outline>
+    <contour>
+      <point x="51" y="-233" type="line"/>
+      <point x="97" y="-50" type="line"/>
+      <point x="-23" y="-50" type="line"/>
+      <point x="-97" y="-351" type="line"/>
+      <point x="967" y="-351" type="line"/>
+      <point x="1042" y="-50" type="line"/>
+      <point x="922" y="-50" type="line"/>
+      <point x="876" y="-233" type="line"/>
+    </contour>
+  </outline>
+</glyph>

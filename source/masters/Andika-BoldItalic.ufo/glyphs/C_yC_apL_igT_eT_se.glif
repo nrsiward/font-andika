@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapLigTeTse" format="2">
+  <advance width="2015"/>
+  <unicode hex="04B4"/>
+  <anchor x="950" y="-100" name="L"/>
+  <anchor x="1280" y="1530" name="U"/>
+  <outline>
+    <contour>
+      <point x="1695" y="1445" type="line"/>
+      <point x="1391" y="228" type="line"/>
+      <point x="728" y="228" type="line"/>
+      <point x="975" y="1218" type="line"/>
+      <point x="1078" y="1218" type="line" smooth="yes"/>
+      <point x="1168" y="1218"/>
+      <point x="1252" y="1215"/>
+      <point x="1328" y="1198" type="curve"/>
+      <point x="1390" y="1445" type="line"/>
+      <point x="335" y="1445" type="line"/>
+      <point x="273" y="1198" type="line"/>
+      <point x="357" y="1215"/>
+      <point x="444" y="1218"/>
+      <point x="533" y="1218" type="curve" smooth="yes"/>
+      <point x="690" y="1218" type="line"/>
+      <point x="494" y="431" type="line" smooth="yes"/>
+      <point x="445" y="236"/>
+      <point x="403" y="79"/>
+      <point x="367" y="0" type="curve"/>
+      <point x="1605" y="0" type="line"/>
+      <point x="1603" y="-126"/>
+      <point x="1557" y="-331"/>
+      <point x="1526" y="-455" type="curve"/>
+      <point x="1781" y="-455" type="line"/>
+      <point x="1951" y="228" type="line"/>
+      <point x="1676" y="228" type="line"/>
+      <point x="1874" y="1020" type="line" smooth="yes"/>
+      <point x="1922" y="1215"/>
+      <point x="1960" y="1366"/>
+      <point x="1995" y="1445" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

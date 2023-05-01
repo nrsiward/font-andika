@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmHCedilla.sc" format="2">
+  <advance width="1395"/>
+  <anchor x="69" y="-530" name="L"/>
+  <anchor x="988" y="1279" name="U"/>
+  <outline>
+    <component base="LtnSmH.sc"/>
+    <component base="CombCedilla" xOffset="721"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

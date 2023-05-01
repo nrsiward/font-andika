@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmPalochka" format="2">
+  <advance width="725"/>
+  <unicode hex="04CF"/>
+  <anchor x="330" y="0" name="H"/>
+  <anchor x="287" y="-100" name="L"/>
+  <anchor x="835" y="1000" name="R"/>
+  <anchor x="720" y="1635" name="U"/>
+  <outline>
+    <contour>
+      <point x="570" y="142" type="line"/>
+      <point x="440" y="142" type="line"/>
+      <point x="760" y="1426" type="line"/>
+      <point x="890" y="1426" type="line"/>
+      <point x="925" y="1568" type="line"/>
+      <point x="480" y="1568" type="line"/>
+      <point x="445" y="1426" type="line"/>
+      <point x="575" y="1426" type="line"/>
+      <point x="255" y="142" type="line"/>
+      <point x="125" y="142" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="535" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

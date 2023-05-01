@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LftRtDblArrw" format="2">
+  <advance width="2000"/>
+  <unicode hex="21D4"/>
+  <outline>
+    <contour>
+      <point x="1668" y="574" type="line"/>
+      <point x="498" y="574" type="line"/>
+      <point x="334" y="708" type="line"/>
+      <point x="588" y="856" type="line"/>
+      <point x="1758" y="856" type="line"/>
+      <point x="1924" y="728" type="line"/>
+    </contour>
+    <contour>
+      <point x="1493" y="480" type="line"/>
+      <point x="1280" y="361" type="line"/>
+      <point x="1322" y="272" type="line"/>
+      <point x="2057" y="673" type="line"/>
+      <point x="2078" y="757" type="line"/>
+      <point x="1544" y="1163" type="line"/>
+      <point x="1476" y="1069" type="line"/>
+      <point x="1630" y="950" type="line"/>
+      <point x="762" y="950" type="line"/>
+      <point x="976" y="1069" type="line"/>
+      <point x="934" y="1163" type="line"/>
+      <point x="198" y="757" type="line"/>
+      <point x="177" y="673" type="line"/>
+      <point x="712" y="272" type="line"/>
+      <point x="780" y="361" type="line"/>
+      <point x="625" y="480" type="line"/>
+    </contour>
+  </outline>
+</glyph>

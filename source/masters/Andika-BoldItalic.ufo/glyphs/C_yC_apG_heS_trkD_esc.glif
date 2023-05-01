@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapGheStrkDesc" format="2">
+  <advance width="1135"/>
+  <unicode hex="F326"/>
+  <anchor x="415" y="-500" name="L"/>
+  <anchor x="947" y="1530" name="U"/>
+  <outline>
+    <contour>
+      <point x="296" y="-455" type="curve"/>
+      <point x="551" y="-455" type="line"/>
+      <point x="721" y="228" type="line"/>
+      <point x="446" y="228" type="line"/>
+      <point x="693" y="1218" type="line"/>
+      <point x="917" y="1218" type="line" smooth="yes"/>
+      <point x="1114" y="1218"/>
+      <point x="1273" y="1217"/>
+      <point x="1349" y="1203" type="curve"/>
+      <point x="1410" y="1445" type="line"/>
+      <point x="450" y="1445" type="line"/>
+      <point x="444" y="1366"/>
+      <point x="406" y="1210"/>
+      <point x="358" y="1015" type="curve" smooth="yes"/>
+      <point x="212" y="431" type="line" smooth="yes"/>
+      <point x="163" y="236"/>
+      <point x="123" y="79"/>
+      <point x="90" y="0" type="curve"/>
+      <point x="375" y="0" type="line"/>
+      <point x="373" y="-126"/>
+      <point x="327" y="-331"/>
+    </contour>
+    <contour>
+      <point x="100" y="653" type="line"/>
+      <point x="985" y="653" type="line"/>
+      <point x="1036" y="856" type="line"/>
+      <point x="151" y="856" type="line"/>
+    </contour>
+  </outline>
+</glyph>

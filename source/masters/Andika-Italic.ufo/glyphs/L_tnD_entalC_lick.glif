@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnDentalClick" format="2">
+  <advance width="475"/>
+  <unicode hex="01C0"/>
+  <anchor x="63" y="-500" name="L"/>
+  <anchor x="596" y="1635" name="U"/>
+  <outline>
+    <contour>
+      <point x="500" y="1568" type="line"/>
+      <point x="-10" y="-480" type="line"/>
+      <point x="145" y="-480" type="line"/>
+      <point x="655" y="1568" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmWCircum.sc" format="2">
+  <advance width="1915"/>
+  <anchor x="873" y="-84" name="L"/>
+  <anchor x="1346" y="1814" name="U"/>
+  <outline>
+    <component base="LtnSmW.sc"/>
+    <component base="CombCircum" xOffset="1567" yOffset="179"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

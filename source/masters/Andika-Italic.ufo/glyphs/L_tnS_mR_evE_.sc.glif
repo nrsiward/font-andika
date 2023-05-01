@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmRevE.sc" format="2">
+  <advance width="1091"/>
+  <anchor x="443" y="-84" name="L"/>
+  <anchor x="817" y="1279" name="U"/>
+  <outline>
+    <contour>
+      <point x="347" y="692" type="line"/>
+      <point x="311" y="561" type="line"/>
+      <point x="836" y="561" type="line"/>
+      <point x="719" y="135" type="line"/>
+      <point x="476" y="135" type="line" smooth="yes"/>
+      <point x="295" y="135"/>
+      <point x="172" y="136"/>
+      <point x="101" y="147" type="curve"/>
+      <point x="61" y="0" type="line"/>
+      <point x="871" y="0" type="line"/>
+      <point x="874" y="65"/>
+      <point x="910" y="195"/>
+      <point x="955" y="356" type="curve" smooth="yes"/>
+      <point x="1087" y="840" type="line" smooth="yes"/>
+      <point x="1131" y="1002"/>
+      <point x="1167" y="1130"/>
+      <point x="1198" y="1196" type="curve"/>
+      <point x="416" y="1196" type="line"/>
+      <point x="380" y="1061" type="line"/>
+      <point x="973" y="1061" type="line"/>
+      <point x="872" y="692" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombLtnSmWBlw" format="2">
+  <unicode hex="1ABF"/>
+  <anchor x="-570" y="-765" name="L"/>
+  <anchor x="-570" y="-100" name="_L"/>
+  <outline>
+    <contour>
+      <point x="-610" y="-148" type="line"/>
+      <point x="-758" y="-572" type="line"/>
+      <point x="-877" y="-148" type="line"/>
+      <point x="-982" y="-148" type="line"/>
+      <point x="-955" y="-228"/>
+      <point x="-939" y="-279"/>
+      <point x="-922" y="-335" type="curve" smooth="yes"/>
+      <point x="-817" y="-685" type="line"/>
+      <point x="-709" y="-685" type="line"/>
+      <point x="-568" y="-272" type="line"/>
+      <point x="-426" y="-685" type="line"/>
+      <point x="-319" y="-685" type="line"/>
+      <point x="-213" y="-335" type="line" smooth="yes"/>
+      <point x="-194" y="-272"/>
+      <point x="-180" y="-228"/>
+      <point x="-153" y="-148" type="curve"/>
+      <point x="-258" y="-148" type="line"/>
+      <point x="-377" y="-572" type="line"/>
+      <point x="-525" y="-148" type="line"/>
+    </contour>
+  </outline>
+</glyph>

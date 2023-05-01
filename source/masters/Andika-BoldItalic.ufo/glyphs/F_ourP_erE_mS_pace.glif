@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="FourPerEmSpace" format="2">
+  <advance width="492"/>
+  <unicode hex="2005"/>
+  <anchor x="195" y="0" name="H"/>
+  <anchor x="170" y="-100" name="L"/>
+  <anchor x="245" y="0" name="O"/>
+  <anchor x="700" y="1000" name="R"/>
+  <anchor x="580" y="1530" name="U"/>
+  <outline/>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModUpTack" format="2">
+  <advance width="810"/>
+  <unicode hex="02D4"/>
+  <outline>
+    <contour>
+      <point x="531" y="406" type="line"/>
+      <point x="615" y="742" type="line"/>
+      <point x="465" y="742" type="line"/>
+      <point x="381" y="406" type="line"/>
+      <point x="161" y="406" type="line"/>
+      <point x="124" y="257" type="line"/>
+      <point x="734" y="257" type="line"/>
+      <point x="771" y="406" type="line"/>
+    </contour>
+  </outline>
+</glyph>

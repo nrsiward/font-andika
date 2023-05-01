@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmDotlessJStrk" format="2">
+  <advance width="802"/>
+  <unicode hex="025F"/>
+  <anchor x="20" y="-500" name="L"/>
+  <anchor x="900" y="1000" name="R"/>
+  <anchor x="605" y="1100" name="U"/>
+  <outline>
+    <contour>
+      <point x="421" y="1010" type="line"/>
+      <point x="421" y="866"/>
+      <point x="344" y="395"/>
+      <point x="265" y="87" type="curve" smooth="yes"/>
+      <point x="208" y="-136"/>
+      <point x="114" y="-221"/>
+      <point x="4" y="-221" type="curve" smooth="yes"/>
+      <point x="-77" y="-221"/>
+      <point x="-157" y="-187"/>
+      <point x="-192" y="-150" type="curve"/>
+      <point x="-295" y="-385" type="line"/>
+      <point x="-261" y="-417"/>
+      <point x="-112" y="-465"/>
+      <point x="-19" y="-465" type="curve" smooth="yes"/>
+      <point x="230" y="-465"/>
+      <point x="447" y="-295"/>
+      <point x="541" y="75" type="curve" smooth="yes"/>
+      <point x="562" y="157"/>
+      <point x="706" y="882"/>
+      <point x="706" y="1010" type="curve"/>
+    </contour>
+    <contour>
+      <point x="72" y="464" type="line"/>
+      <point x="837" y="464" type="line"/>
+      <point x="887" y="662" type="line"/>
+      <point x="122" y="662" type="line"/>
+    </contour>
+  </outline>
+</glyph>

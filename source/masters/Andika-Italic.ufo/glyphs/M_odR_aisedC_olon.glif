@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModRaisedColon" format="2">
+  <advance width="490"/>
+  <unicode hex="02F8"/>
+  <outline>
+    <component base="Colon" xOffset="41" yOffset="666"/>
+  </outline>
+</glyph>

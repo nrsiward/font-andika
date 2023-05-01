@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModAcuteAccent.ChinantecTn" format="2">
+  <advance width="609"/>
+  <outline>
+    <contour>
+      <point x="333" y="1018" type="line"/>
+      <point x="896" y="1468" type="line"/>
+      <point x="799" y="1595" type="line"/>
+      <point x="235" y="1144" type="line"/>
+    </contour>
+  </outline>
+</glyph>

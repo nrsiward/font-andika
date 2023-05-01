@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModChinantecTnMrkLowRtCorner" format="2">
+  <advance width="760"/>
+  <unicode hex="A71A"/>
+  <outline>
+    <contour>
+      <point x="260" y="1144" type="line"/>
+      <point x="970" y="1144" type="line"/>
+      <point x="1079" y="1584" type="line"/>
+      <point x="899" y="1584" type="line"/>
+      <point x="831" y="1308" type="line"/>
+      <point x="301" y="1308" type="line"/>
+    </contour>
+  </outline>
+</glyph>

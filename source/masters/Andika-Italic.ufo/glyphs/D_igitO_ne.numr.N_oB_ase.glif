@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DigitOne.numr.NoBase" format="2">
+  <advance width="728"/>
+  <outline>
+    <component base="DigitOne.dnom.NoBase" xOffset="250" yOffset="683"/>
+  </outline>
+</glyph>

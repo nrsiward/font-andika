@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmIStrkRetrHook" format="2">
+  <advance width="675"/>
+  <unicode hex="1DF1A"/>
+  <anchor x="405" y="-500" name="L"/>
+  <anchor x="405" y="1530" name="U"/>
+  <outline>
+    <component base="LtnSmIRetrHook" xOffset="110"/>
+    <contour>
+      <point x="80" y="475" type="line"/>
+      <point x="705" y="475" type="line"/>
+      <point x="705" y="620" type="line"/>
+      <point x="80" y="620" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmUTildeAcute" format="2">
+  <advance width="1257"/>
+  <unicode hex="1E79"/>
+  <anchor x="455" y="0" name="H"/>
+  <anchor x="530" y="-100" name="L"/>
+  <anchor x="630" y="0" name="O"/>
+  <anchor x="1450" y="1000" name="R"/>
+  <anchor x="929" y="2025" name="U"/>
+  <outline>
+    <component base="LtnSmU"/>
+    <component base="CombTilde" xOffset="1210"/>
+    <component base="CombAcute" xOffset="1180" yOffset="390"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModCapI" format="2">
+  <advance width="717"/>
+  <unicode hex="1D35"/>
+  <anchor x="441" y="615" name="L"/>
+  <anchor x="642" y="680" name="O"/>
+  <anchor x="917" y="1310" name="R"/>
+  <anchor x="728" y="1674" name="U"/>
+  <outline>
+    <contour>
+      <point x="441" y="1619" type="line"/>
+      <point x="405" y="1487" type="line"/>
+      <point x="573" y="1487" type="line"/>
+      <point x="392" y="812" type="line"/>
+      <point x="224" y="812" type="line"/>
+      <point x="189" y="680" type="line"/>
+      <point x="724" y="680" type="line"/>
+      <point x="760" y="812" type="line"/>
+      <point x="592" y="812" type="line"/>
+      <point x="773" y="1487" type="line"/>
+      <point x="941" y="1487" type="line"/>
+      <point x="976" y="1619" type="line"/>
+    </contour>
+  </outline>
+</glyph>

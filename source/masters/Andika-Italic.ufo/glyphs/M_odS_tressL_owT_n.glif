@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModStressLowTn" format="2">
+  <advance width="1145"/>
+  <unicode hex="A721"/>
+  <outline>
+    <contour>
+      <point x="790" y="1127" type="line"/>
+      <point x="866" y="1431" type="line"/>
+      <point x="746" y="1431" type="line"/>
+      <point x="670" y="1127" type="line"/>
+      <point x="390" y="1127" type="line"/>
+      <point x="466" y="1431" type="line"/>
+      <point x="346" y="1431" type="line"/>
+      <point x="241" y="1009" type="line"/>
+      <point x="1306" y="1009" type="line"/>
+      <point x="1335" y="1127" type="line"/>
+    </contour>
+  </outline>
+</glyph>

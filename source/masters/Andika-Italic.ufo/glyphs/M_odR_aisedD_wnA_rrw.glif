@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModRaisedDwnArrw" format="2">
+  <advance width="655"/>
+  <unicode hex="A71C"/>
+  <outline>
+    <contour>
+      <point x="576" y="970" type="line"/>
+      <point x="697" y="1455" type="line"/>
+      <point x="582" y="1455" type="line"/>
+      <point x="461" y="970" type="line"/>
+      <point x="251" y="970" type="line"/>
+      <point x="451" y="706" type="line"/>
+      <point x="786" y="970" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LftPtngAngBrac" format="2">
+  <advance width="930"/>
+  <unicode hex="2329"/>
+  <outline>
+    <contour>
+      <point x="763" y="-206" type="line"/>
+      <point x="373" y="637" type="line"/>
+      <point x="1214" y="1480" type="line"/>
+      <point x="1009" y="1480" type="line"/>
+      <point x="173" y="637" type="line"/>
+      <point x="588" y="-206" type="line"/>
+    </contour>
+  </outline>
+</glyph>

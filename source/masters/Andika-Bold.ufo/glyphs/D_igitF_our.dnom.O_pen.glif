@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DigitFour.dnom.Open" format="2">
+  <advance width="764"/>
+  <outline>
+    <contour>
+      <point x="8" y="234" type="line"/>
+      <point x="709" y="234" type="line"/>
+      <point x="709" y="378" type="line"/>
+      <point x="184" y="378" type="line"/>
+      <point x="242" y="934" type="line"/>
+      <point x="72" y="934" type="line"/>
+    </contour>
+    <contour>
+      <point x="437" y="0" type="line"/>
+      <point x="607" y="0" type="line"/>
+      <point x="607" y="755" type="line"/>
+      <point x="437" y="755" type="line"/>
+    </contour>
+  </outline>
+</glyph>

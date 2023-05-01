@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SupplLftSubBrac" format="2">
+  <advance width="555"/>
+  <unicode hex="2E02"/>
+  <outline>
+    <contour>
+      <point x="702" y="1487" type="line"/>
+      <point x="355" y="1224" type="line"/>
+      <point x="249" y="802" type="line"/>
+      <point x="409" y="802" type="line"/>
+      <point x="496" y="1150" type="line"/>
+      <point x="787" y="1372" type="line"/>
+    </contour>
+  </outline>
+</glyph>

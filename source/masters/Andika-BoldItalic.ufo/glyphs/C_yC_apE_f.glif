@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapEf" format="2">
+  <advance width="1528"/>
+  <unicode hex="0424"/>
+  <anchor x="674" y="-100" name="L"/>
+  <anchor x="1107" y="1635" name="U"/>
+  <outline>
+    <contour>
+      <point x="946" y="1544" type="line"/>
+      <point x="934" y="1479"/>
+      <point x="920" y="1417"/>
+      <point x="908" y="1368" type="curve"/>
+      <point x="523" y="1326"/>
+      <point x="211" y="1085"/>
+      <point x="211" y="685" type="curve" smooth="yes"/>
+      <point x="211" y="447"/>
+      <point x="367" y="270"/>
+      <point x="621" y="222" type="curve"/>
+      <point x="601" y="140"/>
+      <point x="578" y="51"/>
+      <point x="557" y="-20" type="curve"/>
+      <point x="842" y="-20" type="line"/>
+      <point x="856" y="52"/>
+      <point x="875" y="138"/>
+      <point x="895" y="216" type="curve"/>
+      <point x="1276" y="262"/>
+      <point x="1583" y="511"/>
+      <point x="1583" y="912" type="curve" smooth="yes"/>
+      <point x="1583" y="1146"/>
+      <point x="1433" y="1315"/>
+      <point x="1180" y="1362" type="curve"/>
+      <point x="1195" y="1418"/>
+      <point x="1211" y="1478"/>
+      <point x="1231" y="1544" type="curve"/>
+    </contour>
+    <contour>
+      <point x="684" y="453" type="line"/>
+      <point x="554" y="492"/>
+      <point x="486" y="595"/>
+      <point x="486" y="719" type="curve" smooth="yes"/>
+      <point x="486" y="937"/>
+      <point x="622" y="1097"/>
+      <point x="855" y="1137" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1118" y="1130" type="line"/>
+      <point x="1243" y="1095"/>
+      <point x="1308" y="1003"/>
+      <point x="1308" y="875" type="curve" smooth="yes"/>
+      <point x="1308" y="652"/>
+      <point x="1175" y="488"/>
+      <point x="947" y="446" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

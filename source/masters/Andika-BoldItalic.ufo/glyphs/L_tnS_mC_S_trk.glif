@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmCStrk" format="2">
+  <advance width="1000"/>
+  <unicode hex="023C"/>
+  <outline>
+    <component base="LtnSmC" xOffset="-60"/>
+    <contour>
+      <point x="913" y="1119" type="line"/>
+      <point x="76" y="-114" type="line"/>
+      <point x="276" y="-114" type="line"/>
+      <point x="1113" y="1119" type="line"/>
+    </contour>
+  </outline>
+</glyph>

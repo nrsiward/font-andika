@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModLowLftArrwhd" format="2">
+  <advance width="556"/>
+  <unicode hex="02F1"/>
+  <outline>
+    <component base="ModLftArrwhd" xScale="0.55" yScale="0.55" xOffset="-317" yOffset="-1011"/>
+  </outline>
+</glyph>

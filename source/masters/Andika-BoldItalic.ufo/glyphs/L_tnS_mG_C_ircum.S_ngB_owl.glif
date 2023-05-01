@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmGCircum.SngBowl" format="2">
+  <advance width="1183"/>
+  <unicode hex="011D"/>
+  <anchor x="455" y="-432" name="H"/>
+  <anchor x="440" y="-500" name="L"/>
+  <anchor x="1375" y="1000" name="R"/>
+  <anchor x="956" y="1635" name="U"/>
+  <outline>
+    <component base="LtnSmG.SngBowl"/>
+    <component base="CombCircum" xOffset="1195"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

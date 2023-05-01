@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModRaisedUpArrw" format="2">
+  <advance width="655"/>
+  <unicode hex="A71B"/>
+  <outline>
+    <contour>
+      <point x="841" y="1191" type="line"/>
+      <point x="637" y="1455" type="line"/>
+      <point x="306" y="1191" type="line"/>
+      <point x="516" y="1191" type="line"/>
+      <point x="396" y="706" type="line"/>
+      <point x="511" y="706" type="line"/>
+      <point x="631" y="1191" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDiaer.Sup" format="2">
+  <anchor x="-45" y="1660" name="U"/>
+  <anchor x="-111" y="1395" name="_U"/>
+  <outline>
+    <contour>
+      <point x="-315" y="1519" type="curve" smooth="yes"/>
+      <point x="-315" y="1477"/>
+      <point x="-283" y="1437"/>
+      <point x="-237" y="1437" type="curve" smooth="yes"/>
+      <point x="-181" y="1437"/>
+      <point x="-135" y="1476"/>
+      <point x="-135" y="1529" type="curve" smooth="yes"/>
+      <point x="-135" y="1570"/>
+      <point x="-169" y="1609"/>
+      <point x="-214" y="1609" type="curve" smooth="yes"/>
+      <point x="-269" y="1609"/>
+      <point x="-315" y="1572"/>
+    </contour>
+    <contour>
+      <point x="-22" y="1519" type="curve" smooth="yes"/>
+      <point x="-22" y="1477"/>
+      <point x="10" y="1437"/>
+      <point x="56" y="1437" type="curve" smooth="yes"/>
+      <point x="112" y="1437"/>
+      <point x="158" y="1476"/>
+      <point x="158" y="1529" type="curve" smooth="yes"/>
+      <point x="158" y="1570"/>
+      <point x="124" y="1609"/>
+      <point x="79" y="1609" type="curve" smooth="yes"/>
+      <point x="24" y="1609"/>
+      <point x="-22" y="1572"/>
+    </contour>
+  </outline>
+</glyph>

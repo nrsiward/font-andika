@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapEmTail" format="2">
+  <advance width="2005"/>
+  <unicode hex="04CD"/>
+  <anchor x="840" y="-100" name="L"/>
+  <anchor x="1247" y="1530" name="U"/>
+  <outline>
+    <contour>
+      <point x="917" y="272" type="line"/>
+      <point x="890" y="1445" type="line"/>
+      <point x="662" y="1445" type="line"/>
+      <point x="720" y="0" type="line"/>
+      <point x="1005" y="0" type="line"/>
+      <point x="1779" y="1445" type="line"/>
+      <point x="1535" y="1445" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="1445" type="line"/>
+      <point x="500" y="1445"/>
+      <point x="154" y="196"/>
+      <point x="80" y="0" type="curve"/>
+      <point x="365" y="0" type="line"/>
+      <point x="678" y="1277" type="line"/>
+      <point x="750" y="1445" type="line"/>
+    </contour>
+    <contour>
+      <point x="1650" y="0" type="line"/>
+      <point x="1669" y="196"/>
+      <point x="1940" y="1445"/>
+      <point x="1940" y="1445" type="curve"/>
+      <point x="1670" y="1445" type="line"/>
+      <point x="1685" y="1287" type="line"/>
+      <point x="1365" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1596" y="228" type="line"/>
+      <point x="1610" y="0" type="line"/>
+      <point x="1286" y="-436" type="line"/>
+      <point x="1531" y="-436" type="line"/>
+      <point x="1885" y="0" type="line"/>
+      <point x="1941" y="228" type="line"/>
+    </contour>
+  </outline>
+</glyph>

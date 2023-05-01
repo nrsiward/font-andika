@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RevDblPrime" format="2">
+  <advance width="820"/>
+  <unicode hex="2036"/>
+  <outline>
+    <contour>
+      <point x="266" y="1431" type="line"/>
+      <point x="512" y="892" type="line"/>
+      <point x="662" y="892" type="line"/>
+      <point x="486" y="1431" type="line"/>
+    </contour>
+    <contour>
+      <point x="626" y="1431" type="line"/>
+      <point x="872" y="892" type="line"/>
+      <point x="1022" y="892" type="line"/>
+      <point x="846" y="1431" type="line"/>
+    </contour>
+  </outline>
+</glyph>

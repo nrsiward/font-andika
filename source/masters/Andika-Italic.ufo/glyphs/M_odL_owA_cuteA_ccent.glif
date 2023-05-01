@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModLowAcuteAccent" format="2">
+  <advance width="560"/>
+  <unicode hex="02CF"/>
+  <outline>
+    <contour>
+      <point x="231" y="-118" type="line"/>
+      <point x="-194" y="-539" type="line"/>
+      <point x="-24" y="-539" type="line"/>
+      <point x="480" y="-118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

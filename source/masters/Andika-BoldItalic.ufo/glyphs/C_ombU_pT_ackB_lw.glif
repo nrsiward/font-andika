@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombUpTackBlw" format="2">
+  <unicode hex="031D"/>
+  <anchor x="-765" y="-500" name="L"/>
+  <anchor x="-665" y="-100" name="_L"/>
+  <outline>
+    <contour>
+      <point x="-665" y="-348" type="line"/>
+      <point x="-620" y="-163" type="line"/>
+      <point x="-750" y="-163" type="line"/>
+      <point x="-795" y="-348" type="line"/>
+      <point x="-940" y="-348" type="line"/>
+      <point x="-972" y="-470" type="line"/>
+      <point x="-542" y="-470" type="line"/>
+      <point x="-510" y="-348" type="line"/>
+    </contour>
+  </outline>
+</glyph>

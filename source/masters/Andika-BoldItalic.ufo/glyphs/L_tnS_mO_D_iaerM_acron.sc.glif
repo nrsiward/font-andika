@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmODiaerMacron.sc" format="2">
+  <advance width="1381"/>
+  <anchor x="632" y="0" name="H"/>
+  <anchor x="609" y="-84" name="L"/>
+  <anchor x="849" y="0" name="O"/>
+  <anchor x="1588" y="1003" name="R"/>
+  <anchor x="1196" y="2114" name="U"/>
+  <outline>
+    <component base="LtnSmO.sc"/>
+    <component base="CombDiaer" xOffset="1351" yOffset="179"/>
+    <component base="CombMacron" xOffset="1463" yOffset="664"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

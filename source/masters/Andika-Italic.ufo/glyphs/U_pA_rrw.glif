@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="UpArrw" format="2">
+  <advance width="1000"/>
+  <unicode hex="2191"/>
+  <outline>
+    <contour>
+      <point x="868" y="1431" type="line"/>
+      <point x="748" y="1431" type="line"/>
+      <point x="343" y="867" type="line"/>
+      <point x="434" y="833" type="line"/>
+      <point x="713" y="1230" type="line"/>
+      <point x="328" y="-314" type="line"/>
+      <point x="438" y="-314" type="line"/>
+      <point x="823" y="1230" type="line"/>
+      <point x="884" y="833" type="line"/>
+      <point x="988" y="867" type="line"/>
+    </contour>
+  </outline>
+</glyph>

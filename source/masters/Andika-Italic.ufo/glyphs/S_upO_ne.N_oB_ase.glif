@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SupOne.NoBase" format="2">
+  <advance width="826"/>
+  <anchor x="500" y="615" name="L"/>
+  <anchor x="785" y="1674" name="U"/>
+  <outline>
+    <contour>
+      <point x="865" y="1610" type="line"/>
+      <point x="732" y="1610" type="line"/>
+      <point x="477" y="1480" type="line"/>
+      <point x="463" y="1364" type="line"/>
+      <point x="698" y="1483" type="line"/>
+      <point x="483" y="680" type="line"/>
+      <point x="630" y="680" type="line"/>
+      <point x="639" y="750"/>
+      <point x="675" y="900"/>
+      <point x="697" y="983" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

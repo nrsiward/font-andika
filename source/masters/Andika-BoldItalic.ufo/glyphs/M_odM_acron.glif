@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModMacron" format="2">
+  <advance width="830"/>
+  <unicode hex="02C9"/>
+  <anchor x="757" y="1450" name="U"/>
+  <outline>
+    <contour>
+      <point x="197" y="1228" type="line"/>
+      <point x="1026" y="1228" type="line"/>
+      <point x="1077" y="1435" type="line"/>
+      <point x="248" y="1435" type="line"/>
+    </contour>
+  </outline>
+</glyph>

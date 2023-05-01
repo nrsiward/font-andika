@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="UpDwnDblArrw" format="2">
+  <advance width="1010"/>
+  <unicode hex="21D5"/>
+  <outline>
+    <contour>
+      <point x="881" y="1089" type="line"/>
+      <point x="572" y="-69" type="line"/>
+      <point x="375" y="-277" type="line"/>
+      <point x="287" y="-69" type="line"/>
+      <point x="596" y="1089" type="line"/>
+      <point x="788" y="1297" type="line"/>
+    </contour>
+    <contour>
+      <point x="939" y="940" type="line"/>
+      <point x="1013" y="757" type="line"/>
+      <point x="1107" y="812" type="line"/>
+      <point x="859" y="1440" type="line"/>
+      <point x="774" y="1440" type="line"/>
+      <point x="207" y="812" type="line"/>
+      <point x="298" y="757" type="line"/>
+      <point x="464" y="940" type="line"/>
+      <point x="229" y="80" type="line"/>
+      <point x="155" y="262" type="line"/>
+      <point x="56" y="208" type="line"/>
+      <point x="310" y="-421" type="line"/>
+      <point x="395" y="-421" type="line"/>
+      <point x="956" y="208" type="line"/>
+      <point x="870" y="262" type="line"/>
+      <point x="704" y="80" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SupplRaisedSqr" format="2">
+  <advance width="800"/>
+  <unicode hex="2E0B"/>
+  <outline>
+    <contour>
+      <point x="1016" y="1431" type="line"/>
+      <point x="396" y="1431" type="line"/>
+      <point x="245" y="826" type="line"/>
+      <point x="865" y="826" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="934" type="line"/>
+      <point x="480" y="1324" type="line"/>
+      <point x="880" y="1324" type="line"/>
+      <point x="782" y="934" type="line"/>
+    </contour>
+  </outline>
+</glyph>

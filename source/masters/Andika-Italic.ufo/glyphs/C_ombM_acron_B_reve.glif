@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombMacron_Breve" format="2">
+  <unicode hex="1DCC"/>
+  <anchor x="-210" y="1635" name="U"/>
+  <anchor x="-355" y="1100" name="_U"/>
+  <outline>
+    <contour>
+      <point x="-972" y="1372" type="line"/>
+      <point x="-369" y="1372" type="line"/>
+      <point x="-347" y="1238"/>
+      <point x="-247" y="1127"/>
+      <point x="-74" y="1127" type="curve" smooth="yes"/>
+      <point x="159" y="1127"/>
+      <point x="341" y="1329"/>
+      <point x="388" y="1519" type="curve"/>
+      <point x="266" y="1519" type="line"/>
+      <point x="213" y="1387"/>
+      <point x="74" y="1274"/>
+      <point x="-57" y="1274" type="curve" smooth="yes"/>
+      <point x="-174" y="1274"/>
+      <point x="-243" y="1366"/>
+      <point x="-243" y="1481" type="curve" smooth="yes"/>
+      <point x="-243" y="1494"/>
+      <point x="-243" y="1506"/>
+      <point x="-241" y="1519" type="curve"/>
+      <point x="-936" y="1519" type="line"/>
+    </contour>
+  </outline>
+</glyph>

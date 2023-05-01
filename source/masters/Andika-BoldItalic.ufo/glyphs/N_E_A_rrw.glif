@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NEArrw" format="2">
+  <advance width="1995"/>
+  <unicode hex="2197"/>
+  <outline>
+    <contour>
+      <point x="1929" y="1163" type="line"/>
+      <point x="1854" y="1256" type="line"/>
+      <point x="1207" y="1042" type="line"/>
+      <point x="1235" y="943" type="line"/>
+      <point x="1677" y="1110" type="line"/>
+      <point x="291" y="20" type="line"/>
+      <point x="360" y="-67" type="line"/>
+      <point x="1746" y="1025" type="line"/>
+      <point x="1475" y="631" type="line"/>
+      <point x="1562" y="585" type="line"/>
+    </contour>
+  </outline>
+</glyph>

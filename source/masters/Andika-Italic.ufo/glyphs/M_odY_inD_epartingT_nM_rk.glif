@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModYinDepartingTnMrk" format="2">
+  <advance width="890"/>
+  <unicode hex="02EA"/>
+  <outline>
+    <contour>
+      <point x="355" y="784" type="line"/>
+      <point x="255" y="784" type="line"/>
+      <point x="116" y="225" type="line"/>
+      <point x="586" y="225" type="line"/>
+      <point x="610" y="323" type="line"/>
+      <point x="240" y="323" type="line"/>
+    </contour>
+  </outline>
+</glyph>

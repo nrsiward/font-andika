@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombAlmostEqToBlw" format="2">
+  <unicode hex="1DFD"/>
+  <anchor x="-792" y="-650" name="L"/>
+  <anchor x="-655" y="-100" name="_L"/>
+  <outline>
+    <component base="CombAlmostEqToAbv" xOffset="-486" yOffset="-1741"/>
+  </outline>
+</glyph>

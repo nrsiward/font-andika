@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SupplLftRaisedOmBrac" format="2">
+  <advance width="777"/>
+  <unicode hex="2E0C"/>
+  <outline>
+    <contour>
+      <point x="767" y="858" type="line"/>
+      <point x="862" y="938" type="line"/>
+      <point x="475" y="1436" type="line"/>
+      <point x="378" y="1358" type="line"/>
+    </contour>
+  </outline>
+</glyph>

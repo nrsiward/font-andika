@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombRtArrwhdUpArrwhdBlw" format="2">
+  <unicode hex="0356"/>
+  <anchor x="-824" y="-850" name="L"/>
+  <anchor x="-637" y="-100" name="_L"/>
+  <outline>
+    <component base="ModRtArrwhd" xOffset="-1983" yOffset="-1749"/>
+    <component base="ModUpArrwhd" xOffset="-1125" yOffset="-1737"/>
+  </outline>
+</glyph>

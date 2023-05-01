@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmSaltillo.Lrg.sc" format="2">
+  <advance width="710"/>
+  <outline>
+    <contour>
+      <point x="251" y="364" type="curve"/>
+      <point x="430" y="364" type="line"/>
+      <point x="443" y="769"/>
+      <point x="423" y="1024"/>
+      <point x="464" y="1427" type="curve"/>
+      <point x="218" y="1427" type="line"/>
+      <point x="256" y="1032"/>
+      <point x="238" y="761"/>
+    </contour>
+  </outline>
+</glyph>
