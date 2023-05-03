@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../tools/ftml.xsl" type="text/xsl"?>
+<?xml-stylesheet href="../common/tools/ftml.xsl" type="text/xsl"?>
 <ftml version="1.0">
   <head>
     <fontscale>200</fontscale>
@@ -3111,10 +3111,6 @@
     <test label="U+04BC">
       <comment>CyCapAbkhasChe</comment>
       <string>\u0004BC\u000329 \u0004BC\u000328 \u0004BC\u00030D</string>
-    </test>
-    <test label="U+04BD">
-      <comment>CySmAbkhasChe</comment>
-      <string>\u0004BD\u000329 \u0004BD\u000328 \u0004BD\u00030D</string>
     </test>
     <test label="U+04BE">
       <comment>CyCapAbkhasCheDesc</comment>

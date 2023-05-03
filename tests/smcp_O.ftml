@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../tools/ftml.xsl" type="text/xsl"?>
+<?xml-stylesheet href="../common/tools/ftml.xsl" type="text/xsl"?>
 <ftml version="1.0">
   <head>
     <fontscale>200</fontscale>
@@ -572,18 +572,6 @@ U+0407">
     <test label="U+0474">
       <comment>CyCapIzhitsa</comment>
       <string>\u000474\u000328</string>
-    </test>
-    <test label="U+04BD">
-      <comment>CySmAbkhasChe</comment>
-      <string>\u0004BD\u000328</string>
-    </test>
-    <test label="U+04BD" stylename="smcp_1">
-      <comment>CySmAbkhasChe</comment>
-      <string>\u0004BD\u000328</string>
-    </test>
-    <test label="U+04BC">
-      <comment>CyCapAbkhasChe</comment>
-      <string>\u0004BC\u000328</string>
     </test>
     <test label="U+04D5
 U+04D9
